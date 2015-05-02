@@ -1,0 +1,6 @@
+C:\Users\Brando\Documents\GitHub\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\Brando\Documents\GitHub\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\Brando\Documents\GitHub\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\Brando\Documents\GitHub\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+C:\Users\Brando\Documents\GitHub\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\Brando\Documents\GitHub\Magic8Ball\obj\Debug\Magic8Ball.pdb
